@@ -1,3 +1,4 @@
+This project is design of many different mode 
 washing machine project with picsimlab , MPLAB X IDE and MPLAB XC Compiler
 this project deign and development of the washing machine - in picsimlab
 
